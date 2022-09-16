@@ -46,7 +46,6 @@ while(caputring_video.isOpened()):
     if k==27:
         break
     
-print("yahan aya")
 caputring_video.release()
 cv2.destroyAllWindows()
     
